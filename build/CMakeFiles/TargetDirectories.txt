@@ -1,3 +1,0 @@
-/home/tech13/桌面/data/Code/Read-YAML/build/CMakeFiles/rebuild_cache.dir
-/home/tech13/桌面/data/Code/Read-YAML/build/CMakeFiles/edit_cache.dir
-/home/tech13/桌面/data/Code/Read-YAML/build/CMakeFiles/Read-YAML.dir

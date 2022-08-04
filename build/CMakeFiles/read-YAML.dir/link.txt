@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/read-YAML.dir/readYAML.cpp.o  -o read-YAML   -L/home/tech13/桌面/data/Code/Read-YAML/libs  -Wl,-rpath,/home/tech13/桌面/data/Code/Read-YAML/libs -lyaml-cpp 

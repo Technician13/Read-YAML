@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -pthread -O3  -rdynamic CMakeFiles/Read-YAML.dir/readYAML.cpp.o  -o ../bin/Read-YAML  -lyaml-cpp 
