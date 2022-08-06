@@ -14,7 +14,7 @@ FILE(GLOB SOURCE_LIST "${CMAKE_SOURCE_DIR}/*.cpp")
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
 add_executable(${PROJ_NAME} ${SOURCE_LIST} ${HEADER_LIST})
 
-include_directories(${PROCESS_COMM_DIR} ${CMAKE_SOURCE_DIR})
+include_directories(${CMAKE_SOURCE_DIR})
 
 set(YAML_LIBRARY_DIRS /usr/local/lib)
 set(YAML_INCLUDE_DIRS /usr/local/include)
